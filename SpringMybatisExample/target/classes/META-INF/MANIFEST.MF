@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringMybatisExample
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: santhoshkumar.sundar
+Implementation-Vendor-Id: com.Learning.Mybatis
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringMybatisExample
+Created-By: Maven Integration for Eclipse
+
